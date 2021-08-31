@@ -1,3 +1,5 @@
+#WARNING: BOT TOKEN HIDDEN FOR SECURITY
+
 import discord
 import os
 from dotenv import load_dotenv
